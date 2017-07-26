@@ -25,10 +25,10 @@ caffeine
 --------
 Provides a menu to control [caffeine-ng](https://gitlab.com/hobarrera/caffeine-ng)
 ```
-X:      closes the menu
-PLAY:   starts caffeine
-PAUSE:  stops caffeine
-STOP:   kills caffeine
+X:      close the menu
+PLAY:   activate
+PAUSE:  deactivate
+STOP:   kill
 ```
 ```ini
 [module/caffeine]
