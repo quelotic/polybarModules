@@ -18,7 +18,7 @@ type = custom/script
 exec = /path/to/mail.py
 interval = 30
 label =  %output%
-click-left = exec firefox hotmail.com
+click-left = exec firefox hotmail.com &
 ```
 
 caffeine
